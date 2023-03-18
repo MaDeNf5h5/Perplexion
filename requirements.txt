@@ -1,0 +1,8 @@
+nekos.py
+motor
+Pillow
+pymongo
+disnake
+uvloop
+numpy
+pymongo[srv]
